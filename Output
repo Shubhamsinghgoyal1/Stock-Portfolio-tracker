@@ -1,0 +1,40 @@
+Stock Portfolio Tracker
+1. Add a Stock
+2. Remove a Stock
+3. Display Portfolio
+4. Exit
+Choose an option: 1
+
+Enter stock ticker (e.g., AAPL): AAPL
+Added Apple Inc. (AAPL) to your portfolio.
+
+Stock Portfolio Tracker
+1. Add a Stock
+2. Remove a Stock
+3. Display Portfolio
+4. Exit
+Choose an option: 3
+
+Portfolio:
+Ticker     Company              Price      Change    
+--------------------------------------------------
+AAPL       Apple Inc.           174.55     +1.25
+
+Stock Portfolio Tracker
+1. Add a Stock
+2. Remove a Stock
+3. Display Portfolio
+4. Exit
+Choose an option: 2
+
+Enter stock ticker to remove (e.g., AAPL): AAPL
+Removed AAPL from your portfolio.
+
+Stock Portfolio Tracker
+1. Add a Stock
+2. Remove a Stock
+3. Display Portfolio
+4. Exit
+Choose an option: 3
+
+Your portfolio is empty!
