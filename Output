@@ -1,40 +1,96 @@
 Stock Portfolio Tracker
-1. Add a Stock
-2. Remove a Stock
-3. Display Portfolio
-4. Exit
-Choose an option: 1
+PS C:\Users\shubham singh goyal\Desktop\codeAlfa projects\Stock price tracker> py
+python -u "c:\Users\shubham singh goyal\Desktop\codeAlfa projects\Stock price tracker\app.py"
 
-Enter stock ticker (e.g., AAPL): AAPL
-Added Apple Inc. (AAPL) to your portfolio.
+Portfolio Tracker Menu:
+1. Add Stock
+2. Remove Stock
+3. View Portfolio
+4. Check Portfolio Value
+5. Exit
+Enter your choice: 1
+Enter stock symbol (e.g., AAPL, TSLA): tsla
+Enter quantity: 10
+Added 10 shares of TSLA to your portfolio.
 
-Stock Portfolio Tracker
-1. Add a Stock
-2. Remove a Stock
-3. Display Portfolio
-4. Exit
-Choose an option: 3
+Portfolio Tracker Menu:
+1. Add Stock
+2. Remove Stock
+3. View Portfolio
+4. Check Portfolio Value
+5. Exit
+Enter your choice: 2
+Enter stock symbol to remove: tsla
+Enter quantity to remove: 5
+Removed 5 shares of TSLA from your portfolio.
 
-Portfolio:
-Ticker     Company              Price      Change    
---------------------------------------------------
-AAPL       Apple Inc.           174.55     +1.25
+Portfolio Tracker Menu:
+1. Add Stock
+2. Remove Stock
+3. View Portfolio
+4. Check Portfolio Value
+5. Exit
+Enter your choice: 3
+Current Portfolio:
+TSLA: 5 shares
+Removed 5 shares of TSLA from your portfolio.
 
-Stock Portfolio Tracker
-1. Add a Stock
-2. Remove a Stock
-3. Display Portfolio
-4. Exit
-Choose an option: 2
+Portfolio Tracker Menu:
+1. Add Stock
+2. Remove Stock
+3. View Portfolio
+4. Check Portfolio Value
+5. Exit
+Enter your choice: 3
+Current Portfolio:
+TSLA: 5 shares
+1. Add Stock
+2. Remove Stock
+3. View Portfolio
+4. Check Portfolio Value
+5. Exit
+Enter your choice: 3
+Current Portfolio:
+TSLA: 5 shares
+3. View Portfolio
+4. Check Portfolio Value
+5. Exit
+Enter your choice: 3
+Current Portfolio:
+TSLA: 5 shares
+Current Portfolio:
+TSLA: 5 shares
+TSLA: 5 shares
 
-Enter stock ticker to remove (e.g., AAPL): AAPL
-Removed AAPL from your portfolio.
+Portfolio Tracker Menu:
+1. Add Stock
+2. Remove Stock
 
-Stock Portfolio Tracker
-1. Add a Stock
-2. Remove a Stock
-3. Display Portfolio
-4. Exit
-Choose an option: 3
+Portfolio Tracker Menu:
+1. Add Stock
+2. Remove Stock
+1. Add Stock
+2. Remove Stock
+3. View Portfolio
+2. Remove Stock
+3. View Portfolio
+3. View Portfolio
+4. Check Portfolio Value
+5. Exit
+5. Exit
+Enter your choice: 4
+TSLA: 5 shares x $332.89 = $1664.45
 
-Your portfolio is empty!
+TSLA: 5 shares x $332.89 = $1664.45
+
+
+Total Portfolio Value: $1664.45
+
+Portfolio Tracker Menu:
+1. Add Stock
+2. Remove Stock
+3. View Portfolio
+4. Check Portfolio Value
+5. Exit
+Enter your choice: 5
+Exiting Portfolio Tracker. Goodbye!
